@@ -16,7 +16,7 @@
 # Edit Product
 ![editprod](https://github.com/BoraboLM/CrudCategoryProducts/assets/91419104/4204da13-cbf6-4cb1-9b85-9e2d915e95a8)
 
-#Edit Category
+# Edit Category
 ![editcat](https://github.com/BoraboLM/CrudCategoryProducts/assets/91419104/85df3edd-95c1-4f78-8c0a-32104d87fdea)
 
 # List of Products
